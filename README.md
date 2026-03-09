@@ -33,11 +33,11 @@ The RNA-seq analysis pipeline includes the following steps:
 8-Visualization: PCA plots, Volcano plots, Heatmaps of top differentially expressed genes
 
 # Tools Used
-Python
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-scikit-learn
+Python,
+pandas,
+numpy,
+matplotlib,
+seaborn,
+scipy,
+scikit-learn,
 statsmodels
