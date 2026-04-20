@@ -1,5 +1,5 @@
 # Objective
-Analyze high-dimensional gene expression data to identify patterns and differences across experimental conditions.
+The objective of this project is to analyze the high-dimensional gene expression data to identify patterns and differences across experimental conditions.
 
 # Dataset
 -Public RNA-seq dataset from GEO (GSE197739)
